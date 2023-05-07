@@ -23,15 +23,15 @@ public class SwaggerConfig {
                 .description("Projeto Blog Pessoal - Generation Brasil")
                 .version("v0.0.1")
                 .license(new License()
-                    .name("Generation Brasil")
-                    .url("https://brazil.generation.org/"))
+                    .name("Lais Faustino")
+                    .url("https://github.com/laisfaustino"))
                 .contact(new Contact()
                     .name("Lais Rodrigues Faustino Gomes")
                     .url("https://github.com/laisfaustino")
                     .email("laisfaustino@hotmail.com")))
             .externalDocs(new ExternalDocumentation()
                 .description("Github")
-                .url("https://github.com/laisfaustino/Blog-Pessoal"));
+                .url("https://github.com/laisfaustino/Blog_Pessoal"));
     }
 
 

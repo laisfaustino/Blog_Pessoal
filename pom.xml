@@ -12,7 +12,11 @@
 	<artifactId>blogpessoal2</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>blogpessoal2</name>
+<<<<<<< HEAD
+	<description>blogpessoal2</description>
+=======
 	<description>Projeto Blog Pessoal</description>
+>>>>>>> b4951a187b7e596320dcff0cf386a0024507d2b5
 	<properties>
 		<java.version>17</java.version>
 	</properties>
